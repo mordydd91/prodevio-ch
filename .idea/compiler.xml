@@ -9,9 +9,6 @@
         <module name="devops-challenge" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="devops-challenge" target="8" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
